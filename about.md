@@ -12,11 +12,9 @@ To promote this feeling to more people we have started a series of events in whi
 
 In this series our first event was -
 
-Yaad-e-Rahat -> Honouring the work of Rahat Indori (Held on 1 Jan 2021)
-
-the next event in this series is -
-
-Yaad-e-Jaun -> In the name of Jaun Elia (To be held on 6 Feb 2021)
+* Yaad-e-Rahat - Honouring the work of Rahat Indori : 1st Jan 2021
+* Yaad-e-Jaun - Honouring the work of Jaun Elia : 6th Feb 2021
+* Yaad-e-Sahir - Honouring the work of Sahir Ludhianvi : 7th March 2021
 
  
 
