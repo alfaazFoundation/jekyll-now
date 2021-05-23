@@ -1,5 +1,5 @@
 current directory: /home/sunny/code/alfaazfoundation.github.io/vendor/cache/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/usr/bin/ruby2.5 -r ./siteconf20210205-17605-1lohig9.rb extconf.rb
+/usr/bin/ruby2.5 -r ./siteconf20210524-10336-ki2nf9.rb extconf.rb
 creating Makefile
 
 current directory: /home/sunny/code/alfaazfoundation.github.io/vendor/cache/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -13,4 +13,4 @@ linking shared-object fastfilereaderext.so
 
 current directory: /home/sunny/code/alfaazfoundation.github.io/vendor/cache/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210205-17605-ry1gqa
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210524-10336-dnsmvt
