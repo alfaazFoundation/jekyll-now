@@ -2,7 +2,7 @@
 
 # Alfaaz Foundation
 
-Personal Blog and Poem sharing platform - https://alfaazfoundation.github.io/
+Personal Blog and Poem sharing platform - [alfaazFoundation.in](http://alfaazfoundation.in/)
 
 If you want to contribute - 
 Email - foundationalfaaz@gmail.com
