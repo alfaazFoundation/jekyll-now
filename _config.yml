@@ -87,3 +87,5 @@ exclude:
   - vendor
 
 theme: jekyll-theme-merlot
+
+show_downloads: false
