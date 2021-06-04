@@ -89,3 +89,5 @@ exclude:
 theme: jekyll-theme-merlot
 
 show_downloads: false
+
+new_version: https://alfaazfoundation.in/alfaazBlogginFrontend/#/
